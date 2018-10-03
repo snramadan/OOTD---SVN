@@ -1,0 +1,6 @@
+User Stories
+
+As a user, I want to be able to be able to upload my favorite pieces of clothing, so I can find a curated outfit based on the location I am traveling to. 
+As a beginner, I want a tutorial for the app, so that I know how to upload images of my outfits and pick the destination that I am traveling to. 
+As an end user, I want to be able to see the right outfit for me based on my current or future location, so that I can be better prepared for the location that I am visiting. 
+

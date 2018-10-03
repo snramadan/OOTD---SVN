@@ -1,0 +1,7 @@
+
+Functional Requirements
+The system shall provide generated outfits based on the users uploaded closet and their destination’s weather. 
+The system shall provide a feasible form for the user to state the destination they are traveling to. 
+The system shall provide a quick survey to see whether or not the user liked the outfit generated for them. 
+
+
