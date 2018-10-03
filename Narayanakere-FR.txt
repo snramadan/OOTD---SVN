@@ -1,0 +1,5 @@
+1. The system shall provide current weather forecasts based on inputted location.
+2. The system shall provide outfit combinations utilizing a user’s “closet”*.
+3. The system shall allow the user to “like” or “dislike” outfit combinations.
+
+*closet is a set of images of the user's clothes.

@@ -1,0 +1,3 @@
+1. As a fashion-conscious adult, I want to have outfits recommended to me, so that I can try new clothing combinations.
+2. As a student, I want to have pre-determined outfits ready to go, so that I can save time in the morning getting ready for class.
+3. As a last minute planner, I want to know what clothes to wear in certain weather, so I don’t wear the wrong articles of clothing.
