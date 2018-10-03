@@ -1,0 +1,4 @@
+The system shall provide a user interface that adjusts to the screen resolution of the user’s device.
+The system shall provide a form for users to submit their zip code. 
+The system shall provide an interface to upload photographs of their clothing.
+

@@ -1,0 +1,4 @@
+As a mobile user, I want a native mobile interface, so I can find outfits to wear from my cell phone.
+As a busy person, I want the application to be able to look up the weather for me from a zip code, so I do not have to tell it myself what the weather is at my destination.
+As a user, I want the picture uploading process to take under a minute for each item, so that I can upload my entire closet in a single afternoon.
+
