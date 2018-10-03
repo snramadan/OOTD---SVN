@@ -1,0 +1,6 @@
+- The system shall provide recommendations on outfit suggestions based upon weather and wardrobe pieces the user owns.
+
+- The system shall provide suggestions for new pieces of clothing the user may add to their wardrobe.
+
+- The system shall create outfit recommendations for the user based on color combinations and preferences specified by the user.
+

@@ -1,0 +1,4 @@
+- As someone not knowledgeable about fashion, I want assistance in picking my clothes, so I can easily learn how to dress better.
+- As a consumer with too many clothes, I want to view various combinations of outfits, so I can make the most of my wardrobe.
+- As someone with very few clothes, I want suggestions on clothes I can purchase, so I can expand my current wardrobe and match my existing outfits.
+
