@@ -1,0 +1,4 @@
+As a shopaholic, I want to know and wear the items that I currently own in my closet, so that I can save my money.
+As a user, I want to know what the weather is like and be able to have a outfit that matches the forecast, so that I can dress appropriately for the day.
+As a person who doesn’t know current fashion trends, I want to have someone else pick out cool ways to style my clothes, so that I can look like I have a better sense of style.
+

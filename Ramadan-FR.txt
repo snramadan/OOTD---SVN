@@ -1,0 +1,4 @@
+The system shall provide users with recommended outfits based on the weather forecast of their destination.
+The system shall provide users with a virtual closet for daily use.
+The system shall provide users the ability to choose from multiple outfits options.
+
