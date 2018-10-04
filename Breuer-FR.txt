@@ -1,0 +1,5 @@
+1. The system shall provide a set of clothing images taken by the user, organized by
+clothing type and color.
+2. The system shall provide an outfit suggestion based on the weather of the
+user-submitted location.
+3. The system shall create an outfit based on complimentary colors.
