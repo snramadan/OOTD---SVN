@@ -1,0 +1,7 @@
+1. As an avid shopper, I want a service that can keep track of everything in my closet, so
+that I can fully utilize every article of clothing I purchase.
+2. As a fashionista, I want a pocket stylist application to create new outfits, so that I can
+invision new looks and styles for every occasion.
+3. As someone who lives in a city with vastly varying climates, I want an application that
+can plan my outfits accordingly, so that I can be ready for any weather throughout the
+day.
